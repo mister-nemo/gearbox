@@ -64,7 +64,6 @@ github.com/gearboxworks/go-status v0.0.0-20190623205420-467f07bd7e0e h1:iDelpyMK
 github.com/gearboxworks/go-status v0.0.0-20190623205420-467f07bd7e0e/go.mod h1:NY4NxX+N7+JDO3ZdoxK3IMmcqsyCEuJSzIFStSbfrQY=
 github.com/gearboxworks/go-systray v0.0.0-20190626020534-3518af45bf7c h1:7IcFGeQBM5hWJbeVvvngJb1jaZsTRStxnKORPvSp5XU=
 github.com/gearboxworks/go-systray v0.0.0-20190626020534-3518af45bf7c/go.mod h1:ED8nns0+Te+v2IIRxxJ0gOrb7yIksYqDBuTswucRufk=
-github.com/gearboxworks/systray v0.0.0-20190626013144-62522b18bfbe/go.mod h1:dKAEXir7fEuKsQ240LBiLFNx/AqIsbzSM8j+9VTszgk=
 github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813 h1:Uc+IZ7gYqAf/rSGFplbWBSHaGolEQlNLgMgSE3ccnIQ=
 github.com/gedex/inflector v0.0.0-20170307190818-16278e9db813/go.mod h1:P+oSoE9yhSRvsmYyZsshflcR6ePWYLql6UU1amW13IM=
 github.com/gernest/wow v0.1.0 h1:g9xdwCwP0+xgVYlA2sopI0gZHqXe7HjI/7/LykG4fks=
