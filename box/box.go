@@ -16,7 +16,8 @@ import (
 	"github.com/gearboxworks/go-status"
 	"github.com/gearboxworks/go-status/is"
 	"github.com/gearboxworks/go-status/only"
-	"github.com/gearboxworks/go-systray"
+	//"github.com/gearboxworks/go-systray"
+	"github.com/mister-nemo/go-systray" //!!!Important: this is for temporary
 	"os"
 	"os/signal"
 	"syscall"
