@@ -10,7 +10,8 @@ import (
 	"gearbox/eventbroker/osdirs"
 	"gearbox/eventbroker/states"
 	"github.com/gearboxworks/go-status/only"
-	"github.com/gearboxworks/go-systray"
+	//"github.com/gearboxworks/go-systray"
+	"github.com/mister-nemo/go-systray" //!!!Important: this is for temporary
 	"io/ioutil"
 	"os"
 	"os/exec"
